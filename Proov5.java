@@ -5,7 +5,7 @@ public class Proov5{
      lambid.lisa(new Takisti(50));
      lambid.lisa(new Takisti(50));
      lambid.lisa(new Takisti(50));
-     lambid.lisa(new Takisti(50));
+     lambid.lisa(new Takisti(20));
      RoopYhendus maja=new RoopYhendus();
      maja.lisa(lambid);
      maja.lisa(new Takisti(20));  //mootor
