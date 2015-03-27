@@ -1,3 +1,4 @@
+//muutuste katsetus
 public class Proov5{
   public static void main(String[] arg){
      JadaYhendus lambid=new JadaYhendus();
